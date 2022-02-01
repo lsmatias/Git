@@ -2,7 +2,7 @@
 
 ## Acesse o portal do TFS em "Projects" clique em "Build & Release
 
-![No portal TFS](./img/02.png)
+![No portal TFS](https://github.com/lsmatias/Git/blob/master/02.png)
 
 ## Clique no botão "+New"
 ![No portal TFS](./img/03.png)
